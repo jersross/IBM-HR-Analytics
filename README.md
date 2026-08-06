@@ -4,7 +4,7 @@ Unsupervised K-Means segmentation of IBM's HR workforce with an interactive Grad
 
 Unsupervised K-Means clustering app that segments IBM's HR workforce, surfaces attrition risk by segment, and lets HR partners score hypothetical employee profiles against real workforce personas — built with Gradio + scikit-learn.
 
-🔗 **Live demo:** [https://huggingface.co/spaces/jersross/ibm-attrition]
+🔗 **Live demo:** https://huggingface.co/spaces/jersross/ibm-attrition
 
 ## What it does
 
